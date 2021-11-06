@@ -2,7 +2,7 @@ import axios from "axios";
 import Pagination from "components/pagination";
 import { useEffect, useState } from "react";
 import { SalePage } from "types/sales";
-import { isTemplateExpression } from "typescript";
+//import { isTemplateExpression } from "typescript";
 import { formatLocalDate } from "utils/format";
 import { BASE_URL } from "utils/requests";
 
